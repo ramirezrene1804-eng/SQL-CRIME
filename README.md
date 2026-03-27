@@ -17,3 +17,17 @@ to query and analyze trends efficiently.
 
 ##  Database Structure
 FILL THIS
+
+## Ethical Considerations
+- No personally identifiable information is included in data.
+- Data is used only for academic and analytical purposes.
+- no exact residential addresses are stored.
+- Aviods biases and reinforcing stereotypes.
+## Tools Used
+- SQL
+- MySQLWorkbench (queries and data analysis)
+- CSV dataset import
+## References 
+- Montgomery County Open Data Portal
+- U.S Census Bureau (2020)
+- MCPD EJustice System
